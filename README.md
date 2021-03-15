@@ -1,2 +1,5 @@
 # RL_framework
-RL framework: environment, player, adversary
+
+Environment: Uniform, Bernoulli, Beta
+Player: UCB, AAE, Thompson, BARBAR
+Adversary: Dummy, Uniform, Max Current
